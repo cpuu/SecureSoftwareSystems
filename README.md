@@ -1,7 +1,7 @@
 # Papers related on Secure Software Systems  
 List of legendary papers related to secure software systems
 
-| Date | Category | Reading | Review post(in Korea) |
+| Date | Category | Reading | Review post(in Korean) |
 | ---- | -------- | ------- | ----------- |
 |2016.10.19      |  Intro        | [Reflections on trusting trust, 1984](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)        |  [소프트웨어 신뢰성에 대한 재고찰](https://cpuu.postype.com/post/402071)           |
 |2017.02.14      | Intro         | [WYSINWYX: What You See Is Not What You eXecute, 2005](http://research.cs.wisc.edu/wpis/papers/wysinwyx05.pdf)        | [당신의 눈에 보이는 코드가 그대로 실행될 거라고 착각하지 말라!](https://cpuu.postype.com/post/565003)            |
