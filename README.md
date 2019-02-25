@@ -15,6 +15,7 @@ List of legendary papers related to secure software systems
 | Priority | Category | Title |
 | -------- | -------- | ----- |
 |0 | Integer Overflows | [Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|
+|0 | DEP | [The geometry of innocent flesh on the bone: return-into-libc without function calls (on the x86), 2007)](https://dl.acm.org/citation.cfm?id=1315313)
 | 0          |   ROP       | [Return-oriented programming without returns, 2010](https://dl.acm.org/citation.cfm?id=1866370)      |
 | 0          |   ROP       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
 | 0         | BROP         | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567)      |
