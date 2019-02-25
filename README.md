@@ -1,4 +1,4 @@
-# SecureSoftwareSystems
+# Papers related on Secure Software Systems  
 List of legendary papers related to secure software systems
 
 | Date | Category | Reading | Review post(in Korea) |
@@ -23,3 +23,7 @@ List of legendary papers related to secure software systems
 | 0         | Classic Attacks          | [Low-level software security: attacks and defenses, 2007](http://research.microsoft.com/pubs/64363/tr-2007-153.pdf)       |
 
 
+# Reference
+- [ECE732: Secure Software Systems, Carnegie Mellon University](https://course.ece.cmu.edu/~ece732/s19/schedule.html)
+- [IS-561: Binary Code Analysis and Secure Software Systems, KAIST](https://softsec.kaist.ac.kr/courses/2018f-is561/)
+- [CS260: Binary Analysis for Computer Security](https://www.cs.ucr.edu/~heng/teaching/cs260-winter2017/)
