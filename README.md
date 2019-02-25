@@ -20,7 +20,7 @@ List of legendary papers related to secure software systems
 | 0          |   ROP       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
 | 0         | BROP         | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567)      |
 | 0         | Classic Attacks         | [Sok: eternal war in memory, 2013](https://oaklandsok.github.io/papers/szekeres2013.pdf)      |
-| 0         | Classic Attacks          | [Low-level software security: attacks and defenses, 2007](http://research.microsoft.com/pubs/64363/tr-2007-153.pdf)       |
+
 
 
 # Reference
