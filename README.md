@@ -15,6 +15,7 @@ List of legendary papers related to secure software systems
 | Priority | Category | Title |
 | -------- | -------- | ----- |
 | 0          |   ROP       | [Return-oriented programming without returns, 2010](https://dl.acm.org/citation.cfm?id=1866370)      |
+| 0          |   ROP       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
 | 0         | BROP         | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567)      |
 |          |          |       |
 |          |          |       |
