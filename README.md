@@ -27,4 +27,5 @@ List of legendary papers related to secure software systems
 # Reference
 - [ECE732: Secure Software Systems, Carnegie Mellon University](https://course.ece.cmu.edu/~ece732/s19/schedule.html)
 - [IS-561: Binary Code Analysis and Secure Software Systems, KAIST](https://softsec.kaist.ac.kr/courses/2018f-is561/)
+- [CS155: Computer and Network Security, Stanford University](https://crypto.stanford.edu/cs155/syllabus.html)
 - [CS260: Binary Analysis for Computer Security](https://www.cs.ucr.edu/~heng/teaching/cs260-winter2017/)
