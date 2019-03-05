@@ -22,6 +22,7 @@ List of legendary papers related to secure software systems
 | 0         | BROP         | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567)      |
 | 0         | Classic Attacks         | [Sok: eternal war in memory, 2013](https://oaklandsok.github.io/papers/szekeres2013.pdf)      |
 |0|Format String | [Exploiting Format String Vulnerabilities, 2001](https://crypto.stanford.edu/cs155/papers/formatstring-1.2.pdf)|
+|0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
 
 
 # Reference
