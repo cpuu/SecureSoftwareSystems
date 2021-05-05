@@ -8,11 +8,11 @@ List of legendary papers related to secure software systems
 |2018.03.16      | Buffer Overflows         | [Buffer overflows: Attacks and defenses for the vulnerability of the decade, 2000](http://www.cs.utexas.edu/~shmat/courses/cs395t_fall05/cowan.pdf)        | [버퍼 오버플로우 취약점에 대한 공격기법 및 대응책에 관한 동향연구](https://cpuu.postype.com/post/1755885) | 
 |2019.02.23      | Malware         | [Understanding Linux Malware, 2018](https://ieeexplore.ieee.org/document/8418602)        | [리눅스 악성코드 연구 동향](https://cpuu.postype.com/post/3265477)            |
 |2019.03.03      | Binary Analysis         | [B2R2: Building an Efficient Front-End for Binary Analysis, 2019](https://softsec.kaist.ac.kr/~sangkilc/papers/jung-bar19.pdf)        | [B2R2 바이너리 분석 도구 및 논문 리뷰](https://cpuu.postype.com/post/3258254)            |
-|2019.03.09      | Fuzzing         | [Fuzzing: Art, Science, and Engineering, 2019](https://softsec.kaist.ac.kr/~sangkilc/papers/manes-tse19.pdf)        | [Fuzzing: Art, Science, and Engineering 리뷰](https://cpuu.postype.com/post/3419500)            |
+|2019.03.09      | Fuzzing         | [Fuzzing: Art, Science, and Engineering, 2019](https://softsec.kaist.ac.kr/~sangkilc/papers/manes-tse19.pdf)        | [Fuzzing: Art, Science, and Engineering 논문 리뷰](https://cpuu.postype.com/post/3419500)            |
 |2020.11.22 | ROP | [The geometry of innocent flesh on the bone: return-into-libc without function calls (on the x86), 2007](https://dl.acm.org/citation.cfm?id=1315313) | [ARM32 에서의 Return Oriented Programming](https://cpuu.postype.com/post/8399517) |
 | 2020.12.09          |   JOP      | [Return-oriented programming without returns, 2010](https://dl.acm.org/citation.cfm?id=1866370)      | [ARM32 에서의 Jump Oriented Programming](https://cpuu.postype.com/post/8642325) |
 |2021.01.22|Format String | [Exploiting Format String Vulnerabilities, 2001](https://crypto.stanford.edu/cs155/papers/formatstring-1.2.pdf)| [ARM32 에서의 Format String Vulnerability](https://cpuu.postype.com/post/9052096) | 
-|2021.03.25|Heap | [ArcHeap: Automatic Techniques to Systematically Discover New Heap Exploitation Primitives, 2020](https://www.usenix.org/system/files/sec20-yun.pdf)| [ArcHeap](https://cpuu.postype.com/post/9313455) | 
+|2021.03.25|Heap | [ArcHeap: Automatic Techniques to Systematically Discover New Heap Exploitation Primitives, 2020](https://www.usenix.org/system/files/sec20-yun.pdf)| [ArcHeap 논문 리뷰](https://cpuu.postype.com/post/9313455) | 
  
 
 
