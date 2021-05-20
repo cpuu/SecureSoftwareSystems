@@ -13,7 +13,7 @@ List of legendary papers related to secure software systems
 | 2020.12.09          |   JOP      | [Return-oriented programming without returns, 2010](https://dl.acm.org/citation.cfm?id=1866370)      | [ARM32 에서의 Jump Oriented Programming](https://cpuu.postype.com/post/8642325) |
 |2021.01.22|Format String | [Exploiting Format String Vulnerabilities, 2001](https://crypto.stanford.edu/cs155/papers/formatstring-1.2.pdf)| [ARM32 에서의 Format String Vulnerability](https://cpuu.postype.com/post/9052096) | 
 |2021.03.25|Heap | [ArcHeap: Automatic Techniques to Systematically Discover New Heap Exploitation Primitives, 2020](https://www.usenix.org/system/files/sec20-yun.pdf)| [ArcHeap 논문 리뷰](https://cpuu.postype.com/post/9313455) | 
-|2021.05.20|Heap | [AFL++: Combining Incremental Steps of Fuzzing Research, 2020](https://www.usenix.org/system/files/woot20-paper-fioraldi.pdf)| [AFL++ 논문 리뷰](https://cpuu.postype.com/post/9786737) | 
+|2021.05.20|Fuzzing | [AFL++: Combining Incremental Steps of Fuzzing Research, 2020](https://www.usenix.org/system/files/woot20-paper-fioraldi.pdf)| [AFL++ 논문 리뷰](https://cpuu.postype.com/post/9786737) | 
 
 
 # Backlog
