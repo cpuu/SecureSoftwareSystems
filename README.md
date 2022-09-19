@@ -33,4 +33,4 @@ List of legendary papers related to secure software systems
 - [IS-561: Binary Code Analysis and Secure Software Systems, KAIST](https://softsec.kaist.ac.kr/courses/2021f-is561/)
 - [CS-492E: Introduction to Software Security, KAIST](http://softsec.kaist.ac.kr/courses/2022s-cs492e/)
 - [CS155: Computer and Network Security, Stanford University](https://crypto.stanford.edu/cs155/syllabus.html)
-- [CS260: Binary Analysis for Computer Security](https://www.cs.ucr.edu/~heng/teaching/cs260-winter2019/)
+- [CS260: Binary Analysis for Computer Security](https://www.cs.ucr.edu/~heng/teaching/cs260-winter19/index.html)
