@@ -15,7 +15,7 @@ List of legendary papers related to secure software systems
 |2021.03.25|Heap | [ArcHeap: Automatic Techniques to Systematically Discover New Heap Exploitation Primitives, 2020](https://www.usenix.org/system/files/sec20-yun.pdf)| [ArcHeap 논문 리뷰](https://cpuu.postype.com/post/9313455) | 
 |2021.05.20|Fuzzing | [AFL++: Combining Incremental Steps of Fuzzing Research, 2020](https://www.usenix.org/system/files/woot20-paper-fioraldi.pdf)| [AFL++ 논문 리뷰](https://cpuu.postype.com/post/9786737) | 
 |2021.06.03|SROP | [Framing Signals—A Return to Portable Shellcode, 2014](https://www.cs.vu.nl/~herbertb/papers/srop_sp14.pdf)| [SROP 논문 리뷰](https://cpuu.postype.com/post/9973608) | 
-
+|2022.12.14|Classic Attacks | [Sok: eternal war in memory, 2013](https://oaklandsok.github.io/papers/szekeres2013.pdf)| [Eternal War in Memory 논문 리뷰](https://cpuu.postype.com/post/13503919) | 
 # Backlog
 
 |  <center>Priority</center> |  <center>Category</center> |  <center>Title</center> |
@@ -23,9 +23,8 @@ List of legendary papers related to secure software systems
 |0 | Integer Overflows | [Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|
 | 0          |   Hardening       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
 | 0         | BROP         | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567)      |
-| 0         | Classic Attacks         | [Sok: eternal war in memory, 2013](https://oaklandsok.github.io/papers/szekeres2013.pdf)      |
 |0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
-
+|0|Fuzzing| [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)|
 
 # Reference
 - [ECE732: Secure Software Systems, Carnegie Mellon University](https://course.ece.cmu.edu/~ece732/s21/schedule.html)
