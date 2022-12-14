@@ -25,7 +25,7 @@ List of legendary papers related to secure software systems
 | 0         | BROP         | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567)      |
 |0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
 |0|Fuzzing| [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)|
-
+|0|Fuzzing| [LibAFL: A Framework to Build Modular and Reusable Fuzzers]([https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)|
 # Reference
 - [ECE732: Secure Software Systems, Carnegie Mellon University](https://course.ece.cmu.edu/~ece732/s21/schedule.html)
 - [18487: Introduction to Computer Security, Carnegie Mellon University](https://users.ece.cmu.edu/~dbrumley/courses/18487-f15/#lectures)
