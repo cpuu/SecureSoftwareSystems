@@ -16,6 +16,8 @@ List of legendary papers related to secure software systems
 |2021.05.20|Fuzzing | [AFL++: Combining Incremental Steps of Fuzzing Research, 2020](https://www.usenix.org/system/files/woot20-paper-fioraldi.pdf)| [AFL++ 논문 리뷰](https://cpuu.postype.com/post/9786737) | 
 |2021.06.03|SROP | [Framing Signals—A Return to Portable Shellcode, 2014](https://www.cs.vu.nl/~herbertb/papers/srop_sp14.pdf)| [SROP 논문 리뷰](https://cpuu.postype.com/post/9973608) | 
 |2022.12.14|Classic Attacks | [Sok: eternal war in memory, 2013](https://oaklandsok.github.io/papers/szekeres2013.pdf)| [Eternal War in Memory 논문 리뷰](https://cpuu.postype.com/post/13503919) | 
+|2022.12.21|Fuzzing |[LibAFL: A Framework to Build Modular and Reusable Fuzzers](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)| [LibAFL 논문 리뷰](https://cpuu.postype.com/post/13601655) | 
+
 # Backlog
 
 |  <center>Priority</center> |  <center>Category</center> |  <center>Title</center> |
@@ -25,7 +27,7 @@ List of legendary papers related to secure software systems
 | 0         | BROP         | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567)      |
 |0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
 |0|Fuzzing| [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)|
-|0|Fuzzing| [LibAFL: A Framework to Build Modular and Reusable Fuzzers](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)|
+|0|Fuzzing| |
 # Reference
 - [ECE732: Secure Software Systems, Carnegie Mellon University](https://course.ece.cmu.edu/~ece732/s21/schedule.html)
 - [18487: Introduction to Computer Security, Carnegie Mellon University](https://users.ece.cmu.edu/~dbrumley/courses/18487-f15/#lectures)
