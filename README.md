@@ -18,6 +18,7 @@ List of legendary papers related to secure software systems
 |2022.12.14|Classic Attacks | [Sok: eternal war in memory, 2013](https://oaklandsok.github.io/papers/szekeres2013.pdf)| [Eternal War in Memory 논문 리뷰](https://cpuu.postype.com/post/13503919) | 
 |2022.12.21|Fuzzing |[LibAFL: A Framework to Build Modular and Reusable Fuzzers](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)| [LibAFL 논문 리뷰](https://cpuu.postype.com/post/13601655) | 
 |2022.12.22|BROP | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567) | [BROP 논문 리뷰](https://cpuu.postype.com/post/13606720) | 
+|2022.12.23|Fuzzing [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)|
 
 # Backlog
 
@@ -26,7 +27,6 @@ List of legendary papers related to secure software systems
 |0 | Integer Overflows | [Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|
 | 0          |   Hardening       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
 |0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
-|0|Fuzzing| [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)|
 |0|JIT-ROP| [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization](https://www.ieee-security.org/TC/SP2013/papers/4977a574.pdf)|
 
 # Reference
