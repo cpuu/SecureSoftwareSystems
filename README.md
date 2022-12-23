@@ -18,7 +18,7 @@ List of legendary papers related to secure software systems
 |2022.12.14|Classic Attacks | [Sok: eternal war in memory, 2013](https://oaklandsok.github.io/papers/szekeres2013.pdf)| [Eternal War in Memory 논문 리뷰](https://cpuu.postype.com/post/13503919) | 
 |2022.12.21|Fuzzing |[LibAFL: A Framework to Build Modular and Reusable Fuzzers](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)| [LibAFL 논문 리뷰](https://cpuu.postype.com/post/13601655) | 
 |2022.12.22|BROP | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567) | [BROP 논문 리뷰](https://cpuu.postype.com/post/13606720) | 
-|2022.12.23|Fuzzing [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)| [Fuzzle 논문 리뷰](https://cpuu.postype.com/post/13611318) |
+|2022.12.23|Fuzzing| [Fuzzle: Making a Puzzle for Fuzzers](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)| [Fuzzle 논문 리뷰](https://cpuu.postype.com/post/13611318) |
 
 # Backlog
 
