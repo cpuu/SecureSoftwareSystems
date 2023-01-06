@@ -26,9 +26,23 @@ List of legendary papers related to secure software systems
 |:--------:|:--------:|:--------|
 |0 | Integer Overflows | [Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|
 | 0          |   Auto Exploit       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
-| 0          |   Auto Exploit       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
-|0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
-|0|JIT-ROP| [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization](https://www.ieee-security.org/TC/SP2013/papers/4977a574.pdf)|
+| 0          |   Auto Exploit       | [AEG: Automatic Exploit Generation, 2011](https://softsec.kaist.ac.kr/~sangkilc/papers/avgerinos-ndss11.pdf)      |
+| 0          |   DSE       | [EXE: Automatically Generating Inputs of Death, 2006](https://web.stanford.edu/~engler/exe-ccs-06.pdf)      |
+| 0          |   DSE       | [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs, 2008](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)   |
+| 0          |   DSE       | [Selective Symbolic Execution, 2009](https://dslab.epfl.ch/pubs/selsymbex.pdf)  |
+| 0          |   DSE       | [Unleashing Mayhem on Binary Code, 2012](https://softsec.kaist.ac.kr/~sangkilc/papers/cha-oakland12.pdf)      |
+| 0          |  Veritesting      | [Enhancing Symbolic Execution with Veritesting, 2014](https://softsec.kaist.ac.kr/~sangkilc/papers/avgerinos-icse14.pdf)      |
+| 0          |  IR      | [Testing Intermediate Representations for Binary Analysis, 2017](https://softsec.kaist.ac.kr/~soomink/paper/ase17main-mainp491-p.pdf)      |
+| 0          |  Fuzzing      | [Grey-box Concolic Testing on Binary Code, 2019](https://softsec.kaist.ac.kr/~sangkilc/papers/choi-icse2019.pdf)      |
+| 0          |  Symbolic-assisted fuzzing      | [DART: Directed Automated Random Testing, 2005](https://web.eecs.umich.edu/~weimerw/590/reading/p213-godefroid.pdf)     |
+| 0          |  Symbolic-assisted fuzzing      | [SAGE: Whitebox Fuzzing for Security Testing, 2012](https://dl.acm.org/doi/10.1145/2093548.2093564)
+| 0          |  Symbolic-assisted fuzzing      | [Program-Adaptive Mutational Fuzzing, 2015](https://softsec.kaist.ac.kr/~sangkilc/papers/cha-oakland15.pdf)      |
+| 0          |  Symbolic-assisted fuzzing      | [Driller: Augmenting Fuzzing Through Selective Symbolic Execution, 2016](https://sites.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf)    |
+|0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis, 2016](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
+|0|Reversing| [TIE: Principled Reverse Engineering of Types in Binary Programs, 2011](http://users.ece.cmu.edu/~aavgerin/papers/tie-ndss-2011.pdf)|
+|0|JIT-ROP| [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization, 2013](https://www.ieee-security.org/TC/SP2013/papers/4977a574.pdf)|
+
+
 
 # Reference
 - [ECE732: Secure Software Systems, Carnegie Mellon University](https://course.ece.cmu.edu/~ece732/s21/schedule.html)
