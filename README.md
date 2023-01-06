@@ -1,7 +1,7 @@
 # Papers related on Secure Software Systems  
 List of legendary papers related to secure software systems
 
-| Date | Tag | Reading | Review post(in Korean) |
+| Date | Keyword | Reading | Review post(in Korean) |
 | ---- | -------- | ------- | ----------- |
 |2016.10.19      |  Intro        | [Reflections on trusting trust, 1984](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)        |  [소프트웨어 신뢰성에 대한 재고찰](https://cpuu.postype.com/post/402071)           |
 |2017.02.14      | Intro         | [WYSINWYX: What You See Is Not What You eXecute, 2005](http://research.cs.wisc.edu/wpis/papers/wysinwyx05.pdf)        | [당신의 눈에 보이는 코드가 그대로 실행될 거라고 착각하지 말라!](https://cpuu.postype.com/post/565003)            |
@@ -22,10 +22,11 @@ List of legendary papers related to secure software systems
 
 # Backlog
 
-|  <center>Priority</center> |  <center>Category</center> |  <center>Title</center> |
+|  <center>Priority</center> |  <center>Keyword</center> |  <center>Title</center> |
 |:--------:|:--------:|:--------|
 |0 | Integer Overflows | [Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|
-| 0          |   Hardening       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
+| 0          |   Auto Exploit       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
+| 0          |   Auto Exploit       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
 |0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
 |0|JIT-ROP| [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization](https://www.ieee-security.org/TC/SP2013/papers/4977a574.pdf)|
 
