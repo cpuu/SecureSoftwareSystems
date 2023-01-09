@@ -19,6 +19,7 @@ List of legendary papers related to secure software systems
 |2022.12.21|Fuzzing |[LibAFL: A Framework to Build Modular and Reusable Fuzzers, 2022](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)| [LibAFL 논문 리뷰](https://cpuu.postype.com/post/13601655) | 
 |2022.12.22|BROP | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567) | [BROP 논문 리뷰](https://cpuu.postype.com/post/13606720) | 
 |2022.12.23|Fuzzing| [Fuzzle: Making a Puzzle for Fuzzers, 2022](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)| [Fuzzle 논문 리뷰](https://cpuu.postype.com/post/13611318) |
+|2023.01.09|Binary Analysis|[SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis, 2016](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)| [angr 논문 리뷰](https://cpuu.postype.com/post/13644752) |
 
 # Backlog
 
@@ -38,7 +39,6 @@ List of legendary papers related to secure software systems
 | 0          |  Symbolic-assisted fuzzing      | [SAGE: Whitebox Fuzzing for Security Testing, 2012](https://dl.acm.org/doi/10.1145/2093548.2093564)
 | 0          |  Symbolic-assisted fuzzing      | [Program-Adaptive Mutational Fuzzing, 2015](https://softsec.kaist.ac.kr/~sangkilc/papers/cha-oakland15.pdf)      |
 | 0          |  Symbolic-assisted fuzzing      | [Driller: Augmenting Fuzzing Through Selective Symbolic Execution, 2016](https://sites.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf)    |
-|0|Binary Analysis| [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis, 2016](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)|
 |0|Reversing| [TIE: Principled Reverse Engineering of Types in Binary Programs, 2011](http://users.ece.cmu.edu/~aavgerin/papers/tie-ndss-2011.pdf)|
 |0|JIT-ROP| [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization, 2013](https://www.ieee-security.org/TC/SP2013/papers/4977a574.pdf)|
 
