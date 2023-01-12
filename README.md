@@ -31,6 +31,7 @@ List of legendary papers related to secure software systems
 | 0          |   DSE       | [EXE: Automatically Generating Inputs of Death, 2006](https://web.stanford.edu/~engler/exe-ccs-06.pdf)      |
 | 0          |   DSE       | [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs, 2008](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/cadar/cadar.pdf)   |
 | 0          |   DSE       | [Selective Symbolic Execution, 2009](https://dslab.epfl.ch/pubs/selsymbex.pdf)  |
+| 0          |   DSE       | [All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask), 2010](https://ieeexplore.ieee.org/abstract/document/5504796)  |
 | 0          |   DSE       | [Unleashing Mayhem on Binary Code, 2012](https://softsec.kaist.ac.kr/~sangkilc/papers/cha-oakland12.pdf)      |
 | 0          |  Veritesting      | [Enhancing Symbolic Execution with Veritesting, 2014](https://softsec.kaist.ac.kr/~sangkilc/papers/avgerinos-icse14.pdf)      |
 | 0          |  IR      | [Testing Intermediate Representations for Binary Analysis, 2017](https://softsec.kaist.ac.kr/~soomink/paper/ase17main-mainp491-p.pdf)      |
