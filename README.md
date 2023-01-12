@@ -39,6 +39,7 @@ List of legendary papers related to secure software systems
 | 0          |  Symbolic-assisted fuzzing      | [SAGE: Whitebox Fuzzing for Security Testing, 2012](https://dl.acm.org/doi/10.1145/2093548.2093564)
 | 0          |  Symbolic-assisted fuzzing      | [Program-Adaptive Mutational Fuzzing, 2015](https://softsec.kaist.ac.kr/~sangkilc/papers/cha-oakland15.pdf)      |
 | 0          |  Symbolic-assisted fuzzing      | [Driller: Augmenting Fuzzing Through Selective Symbolic Execution, 2016](https://sites.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf)    |
+| 0          |  Symbolic-assisted fuzzing      | [QSYM : A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing, 2018](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yun.pdf)    |
 |0|Reversing| [TIE: Principled Reverse Engineering of Types in Binary Programs, 2011](http://users.ece.cmu.edu/~aavgerin/papers/tie-ndss-2011.pdf)|
 |0|JIT-ROP| [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization, 2013](https://www.ieee-security.org/TC/SP2013/papers/4977a574.pdf)|
 
