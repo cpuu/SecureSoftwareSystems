@@ -20,8 +20,10 @@ List of legendary papers related to secure software systems
 |2022.12.22|BROP | [Hacking Blind, 2014](https://ieeexplore.ieee.org/document/6956567) | [BROP 논문 리뷰](https://cpuu.postype.com/post/13606720) | 
 |2022.12.23|Fuzzing| [Fuzzle: Making a Puzzle for Fuzzers, 2022](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)| [Fuzzle 논문 리뷰](https://cpuu.postype.com/post/13611318) |
 |2023.01.09|Binary Analysis|[SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis, 2016](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)| [angr 논문 리뷰](https://cpuu.postype.com/post/13644752) |
+|2023.12.29|Hardware Security|[Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors, 2014](http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf) | [Rowhammer 논문 리뷰](https://cpuu.postype.com/post/15845156) |
 
-# Backlog
+
+Backlog
 
 |  <center>Priority</center> |  <center>Keyword</center> |  <center>Title</center> |
 |:--------:|:--------:|:--------|
