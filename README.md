@@ -21,13 +21,13 @@ List of legendary papers related to secure software systems
 | 15|2022.12.23|Fuzzing| [Fuzzle: Making a Puzzle for Fuzzers, 2022](https://softsec.kaist.ac.kr/~sangkilc/papers/lee-ase22.pdf)| [Fuzzle 논문 리뷰](https://cpuu.postype.com/post/13611318) |
 | 16|2023.01.09|Binary Analysis|[SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis, 2016](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)| [angr 논문 리뷰](https://cpuu.postype.com/post/13644752) |
 | 17|2023.12.29|Hardware Security|[Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors, 2014](http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf) | [Rowhammer 논문 리뷰](https://cpuu.postype.com/post/15845156) |
+| 18|2024.01.03|Intger Overflow|[Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|[Integer Overflow 논문 리뷰](https://cpuu.postype.com/post/9084973) |
 
 
 Backlog
 
 |  <center>Priority</center> |  <center>Keyword</center> |  <center>Title</center> |
 |:--------:|:--------:|:--------|
-|0 | Integer Overflows | [Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|
 | 0          |   Auto Exploit       | [Q: Exploit Hardening Made Easy, 2011](https://www.usenix.org/legacy/event/sec11/tech/full_papers/Schwartz.pdf)      |
 | 0          |   Auto Exploit       | [AEG: Automatic Exploit Generation, 2011](https://softsec.kaist.ac.kr/~sangkilc/papers/avgerinos-ndss11.pdf)      |
 | 0          |   DSE       | [EXE: Automatically Generating Inputs of Death, 2006](https://web.stanford.edu/~engler/exe-ccs-06.pdf)      |
