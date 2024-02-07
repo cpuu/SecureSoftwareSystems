@@ -22,7 +22,7 @@ List of legendary papers related to secure software systems
 | 16|2023.01.09|Binary Analysis|[SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis, 2016](https://www.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)| [angr 논문 리뷰](https://cpuu.postype.com/post/13644752) |
 | 17|2023.12.29|Hardware Security|[Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors, 2014](http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf) | [Rowhammer 논문 리뷰](https://cpuu.postype.com/post/15845156) |
 | 18|2024.01.03|Intger Overflow|[Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|[Integer Overflow 논문 리뷰](https://cpuu.postype.com/post/9084973) |
-| 19|2024.02.07|Privacy|[A Study on the Constitutional Source and Scope of the Right to Control Personal Information, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07566626)|[개인정보자기결정권의 헌법상 근거](https://cpuu.postype.com/post/9084973) |
+| 19|2024.02.07|Privacy|[A Study on the Constitutional Source and Scope of the Right to Control Personal Information, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07566626)|[개인정보자기결정권의 헌법상 근거](https://cpuu.postype.com/post/16202411) |
 
 
 Backlog
