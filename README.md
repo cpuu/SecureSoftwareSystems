@@ -24,6 +24,7 @@ List of legendary papers related to secure software systems
 | 18|2024.01.03|Intger Overflow|[Understanding Integer Overflow in C/C++, 2012](https://dl.acm.org/citation.cfm?id=2743019)|[Integer Overflow 논문 리뷰](https://cpuu.postype.com/post/9084973) |
 | 19|2024.02.07|Privacy|[A Study on the Constitutional Source and Scope of the Right to Control Personal Information, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07566626)|[개인정보자기결정권의 헌법상 근거](https://cpuu.postype.com/post/16202411) |
 | 20|2024.02.21|Symbolic Execution|[Symbolic Execution for Software Testing: Three Decades Later, 2013](https://people.eecs.berkeley.edu/~ksen/papers/cacm13.pdf)|[기호실행 연구 동향 2013](https://cpuu.postype.com/post/15979710) |
+| 21|2024.04.02|ARM PAC|[PAC it up: Towards Pointer Integrity using ARM Pointer Authentication, 2019](https://www.usenix.org/system/files/sec19-liljestrand_0.pdf)|[PAC it up](https://cpuu.postype.com/post/16559829) |
 
 Backlog
 
@@ -47,7 +48,6 @@ Backlog
 |0|Reversing| [TIE: Principled Reverse Engineering of Types in Binary Programs, 2011](http://users.ece.cmu.edu/~aavgerin/papers/tie-ndss-2011.pdf)|
 |0|JIT-ROP| [Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization, 2013](https://www.ieee-security.org/TC/SP2013/papers/4977a574.pdf)|
 |0|Binary Analysis| [QueryX: Symbolic Query on Decompiled Code for Finding Bugs in COTS Binaries, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b116/1Js0DFi9SI8)|
-|0|ARM PAC| [PAC it up: Towards Pointer Integrity using ARM Pointer Authentication, 2019](https://www.usenix.org/system/files/sec19-liljestrand_0.pdf)|
 |0|ARM PAC| [Demystifying Pointer Authentication on Apple M1, 2023](https://www.usenix.org/system/files/usenixsecurity23-cai-zechao.pdf)|
 
 
